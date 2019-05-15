@@ -1,0 +1,124 @@
+Epoch: 1
+Itteration_count: 0, loss: 28286.025, training accuracy: 13.00%
+Itteration_count: 50, loss: 13419.140, training accuracy: 89.00%
+Itteration_count: 100, loss: 9010.071, training accuracy: 84.00%
+Itteration_count: 150, loss: 6297.006, training accuracy: 87.00%
+Itteration_count: 200, loss: 3587.328, training accuracy: 87.00%
+Itteration_count: 250, loss: 3861.915, training accuracy: 82.00%
+Itteration_count: 300, loss: 2445.536, training accuracy: 88.00%
+Itteration_count: 350, loss: 1249.237, training accuracy: 90.00%
+Itteration_count: 400, loss: 1284.786, training accuracy: 88.00%
+Itteration_count: 450, loss: 1779.352, training accuracy: 80.00%
+Average validation set accuracy over 100 iterations is 86.45%
+Epoch: 2
+Itteration_count: 0, loss: 1624.725, training accuracy: 87.00%
+Itteration_count: 50, loss: 1866.094, training accuracy: 85.00%
+Itteration_count: 100, loss: 2349.229, training accuracy: 79.00%
+Itteration_count: 150, loss: 765.145, training accuracy: 89.00%
+Itteration_count: 200, loss: 1754.724, training accuracy: 84.00%
+Itteration_count: 250, loss: 1113.954, training accuracy: 86.00%
+Itteration_count: 300, loss: 386.141, training accuracy: 88.00%
+Itteration_count: 350, loss: 887.238, training accuracy: 86.00%
+Itteration_count: 400, loss: 263.824, training accuracy: 95.00%
+Itteration_count: 450, loss: 447.518, training accuracy: 87.00%
+Average validation set accuracy over 100 iterations is 88.74%
+Epoch: 3
+Itteration_count: 0, loss: 477.818, training accuracy: 92.00%
+Itteration_count: 50, loss: 626.913, training accuracy: 85.00%
+Itteration_count: 100, loss: 1481.048, training accuracy: 76.00%
+Itteration_count: 150, loss: 288.232, training accuracy: 91.00%
+Itteration_count: 200, loss: 613.341, training accuracy: 83.00%
+Itteration_count: 250, loss: 395.838, training accuracy: 87.00%
+Itteration_count: 300, loss: 223.972, training accuracy: 90.00%
+Itteration_count: 350, loss: 391.359, training accuracy: 88.00%
+Itteration_count: 400, loss: 115.014, training accuracy: 97.00%
+Itteration_count: 450, loss: 325.767, training accuracy: 84.00%
+Average validation set accuracy over 100 iterations is 91.07%
+Epoch: 4
+Itteration_count: 0, loss: 377.842, training accuracy: 85.00%
+Itteration_count: 50, loss: 324.146, training accuracy: 87.00%
+Itteration_count: 100, loss: 360.277, training accuracy: 85.00%
+Itteration_count: 150, loss: 121.566, training accuracy: 92.00%
+Itteration_count: 200, loss: 414.166, training accuracy: 78.00%
+Itteration_count: 250, loss: 194.654, training accuracy: 90.00%
+Itteration_count: 300, loss: 159.972, training accuracy: 87.00%
+Itteration_count: 350, loss: 135.829, training accuracy: 91.00%
+Itteration_count: 400, loss: 33.503, training accuracy: 93.00%
+Itteration_count: 450, loss: 113.974, training accuracy: 92.00%
+Average validation set accuracy over 100 iterations is 92.48%
+Epoch: 5
+Itteration_count: 0, loss: 136.476, training accuracy: 93.00%
+Itteration_count: 50, loss: 156.503, training accuracy: 91.00%
+Itteration_count: 100, loss: 217.282, training accuracy: 86.00%
+Itteration_count: 150, loss: 79.108, training accuracy: 91.00%
+Itteration_count: 200, loss: 160.279, training accuracy: 86.00%
+Itteration_count: 250, loss: 42.844, training accuracy: 92.00%
+Itteration_count: 300, loss: 64.156, training accuracy: 90.00%
+Itteration_count: 350, loss: 79.370, training accuracy: 91.00%
+Itteration_count: 400, loss: 43.748, training accuracy: 96.00%
+Itteration_count: 450, loss: 48.602, training accuracy: 92.00%
+Average validation set accuracy over 100 iterations is 92.55%
+Epoch: 6
+Itteration_count: 0, loss: 90.539, training accuracy: 90.00%
+Itteration_count: 50, loss: 135.951, training accuracy: 85.00%
+Itteration_count: 100, loss: 115.430, training accuracy: 87.00%
+Itteration_count: 150, loss: 21.356, training accuracy: 97.00%
+Itteration_count: 200, loss: 103.917, training accuracy: 83.00%
+Itteration_count: 250, loss: 44.938, training accuracy: 95.00%
+Itteration_count: 300, loss: 49.060, training accuracy: 90.00%
+Itteration_count: 350, loss: 49.598, training accuracy: 93.00%
+Itteration_count: 400, loss: 12.588, training accuracy: 97.00%
+Itteration_count: 450, loss: 50.393, training accuracy: 92.00%
+Average validation set accuracy over 100 iterations is 94.17%
+Epoch: 7
+Itteration_count: 0, loss: 42.048, training accuracy: 93.00%
+Itteration_count: 50, loss: 29.052, training accuracy: 92.00%
+Itteration_count: 100, loss: 74.652, training accuracy: 87.00%
+Itteration_count: 150, loss: 17.178, training accuracy: 95.00%
+Itteration_count: 200, loss: 52.912, training accuracy: 90.00%
+Itteration_count: 250, loss: 26.198, training accuracy: 95.00%
+Itteration_count: 300, loss: 31.932, training accuracy: 88.00%
+Itteration_count: 350, loss: 32.822, training accuracy: 93.00%
+Itteration_count: 400, loss: 19.256, training accuracy: 94.00%
+Itteration_count: 450, loss: 27.792, training accuracy: 91.00%
+Average validation set accuracy over 100 iterations is 93.57%
+Epoch: 8
+Itteration_count: 0, loss: 47.474, training accuracy: 92.00%
+Itteration_count: 50, loss: 54.903, training accuracy: 89.00%
+Itteration_count: 100, loss: 57.234, training accuracy: 90.00%
+Itteration_count: 150, loss: 7.480, training accuracy: 97.00%
+Itteration_count: 200, loss: 57.370, training accuracy: 89.00%
+Itteration_count: 250, loss: 35.409, training accuracy: 93.00%
+Itteration_count: 300, loss: 33.806, training accuracy: 89.00%
+Itteration_count: 350, loss: 59.366, training accuracy: 92.00%
+Itteration_count: 400, loss: 18.719, training accuracy: 94.00%
+Itteration_count: 450, loss: 32.145, training accuracy: 91.00%
+Average validation set accuracy over 100 iterations is 93.21%
+Epoch: 9
+Itteration_count: 0, loss: 44.797, training accuracy: 92.00%
+Itteration_count: 50, loss: 40.398, training accuracy: 91.00%
+Itteration_count: 100, loss: 101.632, training accuracy: 86.00%
+Itteration_count: 150, loss: 13.117, training accuracy: 96.00%
+Itteration_count: 200, loss: 55.413, training accuracy: 88.00%
+Itteration_count: 250, loss: 22.674, training accuracy: 92.00%
+Itteration_count: 300, loss: 33.435, training accuracy: 91.00%
+Itteration_count: 350, loss: 39.385, training accuracy: 92.00%
+Itteration_count: 400, loss: 15.932, training accuracy: 94.00%
+Itteration_count: 450, loss: 56.693, training accuracy: 85.00%
+Average validation set accuracy over 100 iterations is 91.03%
+Epoch: 10
+Itteration_count: 0, loss: 83.154, training accuracy: 88.00%
+Itteration_count: 50, loss: 49.969, training accuracy: 82.00%
+Itteration_count: 100, loss: 87.229, training accuracy: 86.00%
+Itteration_count: 150, loss: 29.663, training accuracy: 92.00%
+Itteration_count: 200, loss: 83.813, training accuracy: 82.00%
+Itteration_count: 250, loss: 30.343, training accuracy: 95.00%
+Itteration_count: 300, loss: 27.947, training accuracy: 92.00%
+Itteration_count: 350, loss: 47.116, training accuracy: 91.00%
+Itteration_count: 400, loss: 18.289, training accuracy: 98.00%
+Itteration_count: 450, loss: 39.731, training accuracy: 88.00%
+Average validation set accuracy over 100 iterations is 92.24%
+Model saved in file: D:\Data\MNIST\MNIST Dataset JPG format\Model\ 
+OUT OF RANGE VALUES
+
+Test accuracy: 88.680
